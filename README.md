@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @relicLeonara
-- 👀 I’m interested in music & comic & RoboMaster!
+- 👀 I’m interested in music & comic & videogame
 - 🌱 I’m currently learning C++ and Math in college QwQ
 - 📫 Learning alone is very amused for me 
 
